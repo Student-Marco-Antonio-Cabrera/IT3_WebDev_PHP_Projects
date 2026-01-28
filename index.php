@@ -29,10 +29,10 @@
             background-color: white;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-            padding: 20px;              /* Reduced padding - was 25px */
-            max-width:     400px;           /* Reduced max-width - was 500px */
-            width: 90%;                 /* Adjust percentage as needed */
-            margin: 20px auto 0;        /* Centers the card and adds top margin */
+            padding: 20px;
+            max-width:     400px;
+            width: 90%;
+            margin: 20px auto 0;
             text-align: left;
         }
 
