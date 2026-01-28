@@ -18,7 +18,7 @@
         .card {
                 background-color: white;
                 border-radius: 10px;
-                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);  /* Larger, more prominent shadow */
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
                 padding: 30px;
                 max-width: 500px;
                 width: 100%;
